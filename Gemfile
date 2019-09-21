@@ -11,7 +11,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-gem 'devise', '~> 3.3.0'
+gem 'devise', '~> 4.7.1'
 
 gem 'dotenv-rails', :groups => [:development, :text]
 
