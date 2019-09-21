@@ -18,7 +18,7 @@ gem 'dotenv-rails', :groups => [:development, :text]
 group :development, :test do
   gem 'byebug'
   gem 'sqlite3'
-  gem 'web-console', '~> 2.0'
+  gem 'web-console', '~> 2.1'
   gem 'spring'
 end
 
